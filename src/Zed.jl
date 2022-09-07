@@ -1,4 +1,4 @@
-module Example
+module Zed
 export hello, domath
 
 """
